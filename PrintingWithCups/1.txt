@@ -1,0 +1,3 @@
+
+
+lpr -S 127.0.0.1 -P epsonlx_300 D:\zm.txt
